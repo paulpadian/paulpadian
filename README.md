@@ -1,5 +1,5 @@
 ### Hi I'm Paul!
-- Javascript Developer
+- 🛠 Javascript Developer
 - ❤️ Vue & React
 - 🌱 Currently teaching myself: C# and .NET, Bittorrent protocols
 - 📩 Please connect with me on [LinkedIn!](www.linkedin.com/in/paul-padian)
