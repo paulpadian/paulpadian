@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Paul!
+- Javascript Developer
+- ❤️ Vue & React
+- 🌱 Currently teaching myself: C# and .NET, Bittorrent protocols
+- 📩 Please reach out to me on [LinkedIn](www.linkedin.com/in/paul-padian)
 
 <!--
 **paulpadian/paulpadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
