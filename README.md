@@ -1,7 +1,6 @@
 ### Hi I'm Paul!
 - 🛠  JavaScript Developer
-- ❤️  Vue, Next & React
-- 🌱  Currently teaching myself: C# and .NET, Bittorrent protocols
+- 💓  Next, Nuxt, Vue & React
 - 📩  Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
 <!--
