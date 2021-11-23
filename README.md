@@ -1,7 +1,7 @@
 ### Hi I'm Paul!
-- 🛠  JavaScript Developer
-- 💓  Next, Nuxt, Vue & React
-- 📩  Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
+- 🛠   JavaScript Developer
+- 💓   Next, Nuxt, Vue & React
+- 📩   Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
 <!--
 **paulpadian/paulpadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
