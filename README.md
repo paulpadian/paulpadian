@@ -1,5 +1,5 @@
 ### Hi I'm Paul!
-- 🛠   JavaScript Developer
+- 🛠   Full Stack Engineer
 - 💓   Next, Nuxt, Vue & React
 - 📩   Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
