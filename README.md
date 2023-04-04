@@ -1,6 +1,6 @@
 ### Hi I'm Paul!
 - 🛠   Full Stack Engineer
-- 💓   Next, React
+- 💓   Next.js, AWS
 - 📩   Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
 <!--
