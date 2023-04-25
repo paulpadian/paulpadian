@@ -5,6 +5,7 @@
 
 
 ![Paul Padian's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpadian&count_private=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpadian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **paulpadian/paulpadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
