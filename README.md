@@ -4,7 +4,7 @@
 - 📩   Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
 
-![Paul Padian's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpadian&count_private=true&theme=transparent)
+![Paul Padian's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpadian&count_private=true&theme=synthwave)
 
 <!--
 **paulpadian/paulpadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
