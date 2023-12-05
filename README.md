@@ -3,7 +3,7 @@
 - 💓   Next.js, AWS
 - 📩   Please connect with me on [LinkedIn!](https://www.linkedin.com/in/paul-padian)
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1y1iBz1q5oH0MOa9vDhyBk?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!--
 **paulpadian/paulpadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
